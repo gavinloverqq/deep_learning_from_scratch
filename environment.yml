@@ -1,0 +1,8 @@
+name: learning_dl
+dependencies:
+  - numpy
+  - pandas
+  - jupyter
+  - scikit-learn
+  - pillow
+  - matplotlib
